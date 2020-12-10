@@ -1,4 +1,4 @@
-# form_validation
+# Form Validation
 
 ## Project setup
 ```
